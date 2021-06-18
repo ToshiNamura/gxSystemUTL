@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  dllmain.cpp
+  gxAsciiImage.cpp
+  gxAsciiPixsel.cpp
+  gxFunctions.cpp
+  gxIPosition.cpp
+  gxISize.cpp
+  gxInterface.cpp
+  gxKayBoard.cpp
+  gxRectangularBox.cpp
+  gxStraightAngle.cpp
+  gxStraightLine.cpp
+  gxSystem.cpp
+  gxTimer.cpp
+  Создание кода...
+     Создается библиотека G:\Biblio Progect VS\lib\gxUTLibrary\Library\debug\gxSystemUTL.lib и объект G:\Biblio Progect VS\lib\gxUTLibrary\Library\debug\gxSystemUTL.exp
+  gxSystem.vcxproj -> G:\Biblio Progect VS\lib\gxUTLibrary\Library\debug\gxSystemUTL.dll
